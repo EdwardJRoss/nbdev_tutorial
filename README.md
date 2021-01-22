@@ -12,7 +12,7 @@ This file will become your README and also the index of your documentation.
 
 Useful salutations
 
-```python
+```
 say_hello("World")
 ```
 
@@ -23,7 +23,7 @@ say_hello("World")
 
 
 
-```python
+```
 say_goodbye("World")
 ```
 
